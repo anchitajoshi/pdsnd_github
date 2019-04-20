@@ -1,14 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+4/20/19
 
 ### Project Title
-Replace the Project Title
+udacity-project-submission
 
 ### Description
-Describe what your project is about and what it does
+Displays the bikeshare data for cities - chicago, new york or washington
 
 ### Files used
-Include the files used
+chicago.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
