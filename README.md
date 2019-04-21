@@ -5,12 +5,18 @@
 udacity-project-submission
 
 ### Description
-Displays the bikeshare data for cities - chicago, new york or washington
+Displays the bikeshare data for cities - chicago, new york or washington or all
+Displays raw data upon user request
+
 
 ### Files used
-chicago.csv
 Test refactoring code
 
+
+
+
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 Test refactoring code
+
+
+
